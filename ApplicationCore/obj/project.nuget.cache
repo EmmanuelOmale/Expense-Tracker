@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bjPEjvnLe17Fuhly0F/TcOmqbMIfyp2bipsM5+I7hdKW9+q+uoTQjFKzTB5E2z2jvbZVki96jm1MKv0jW1IDgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ExpenseTracker\\ApplicationCore\\ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
