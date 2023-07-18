@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace ApplicationCore.Entities
 {
-    public class Tag : BaseEntity<int>
+    public abstract class BaseEntity<T> where T : struct
     {
-        public string Name { get; set; }
-
-        public ICollection<BlogPost> BlogPosts { get; set; }
+        public virtual T Id { get; set; }
     }
 }
