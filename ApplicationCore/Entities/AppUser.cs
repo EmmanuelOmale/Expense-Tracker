@@ -2,7 +2,7 @@
 
 namespace Infrastructure.NewFolder
 {
-    public class AppUser : BaseEntity<T>
+    public class AppUser : BaseEntity<int>
     {
         public string Name{ get; set; } = string.Empty;
         public string? Email { get; set; }

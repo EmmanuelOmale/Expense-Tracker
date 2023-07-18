@@ -9,7 +9,6 @@ namespace ApplicationCore.Entities
     public class Category : BaseEntity<int>
     {
         public string CategoryName { get; set; }
-
         public ICollection<BlogPost> BlogPosts { get; set; }
     }
 }

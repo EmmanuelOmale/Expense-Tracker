@@ -9,7 +9,6 @@ namespace ApplicationCore.Entities
     public class Tag : BaseEntity<int>
     {
         public string Name { get; set; }
-
         public ICollection<BlogPost> BlogPosts { get; set; }
     }
 }
